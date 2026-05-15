@@ -1,5 +1,3 @@
-// Caner Yalcinkaya
-// 2024400273
 public class Game {
 
     public enum GameState {
