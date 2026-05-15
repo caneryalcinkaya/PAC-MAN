@@ -1,5 +1,3 @@
-// Caner Yalcinkaya
-// 2024400273
 public class Stack<T> {
     private T[] list;
     private int top; // Points to the next empty slot
