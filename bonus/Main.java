@@ -1,5 +1,3 @@
-// Caner Yalcinkaya
-// 2024400273
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
