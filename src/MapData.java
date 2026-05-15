@@ -1,5 +1,3 @@
-// Caner Yalcinkaya
-// 2024400273
 public class MapData {
 
     private final char[][] originalMap;
