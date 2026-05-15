@@ -1,5 +1,3 @@
-// Caner Yalcinkaya
-// 2024400273
 public class Player {
     private static final double VISUAL_SPEED = 0.10;
 
