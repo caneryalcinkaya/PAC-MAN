@@ -1,5 +1,3 @@
-// Caner Yalcinkaya
-// 2024400273
 public class Snapshot {
     private final Position playerPos;
     private final Game.Direction playerDir;
