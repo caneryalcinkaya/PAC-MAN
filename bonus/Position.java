@@ -1,5 +1,3 @@
-// Caner Yalcinkaya
-// 2024400273
 public class Position {
     private final int row;
     private final int col;
