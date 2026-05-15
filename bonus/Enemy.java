@@ -1,5 +1,3 @@
-// Caner Yalcinkaya
-// 2024400273
 public abstract class Enemy {
     protected static final double VISUAL_SPEED = 0.067;
 
