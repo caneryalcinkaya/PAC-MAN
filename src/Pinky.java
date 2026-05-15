@@ -1,5 +1,3 @@
-// Caner Yalcinkaya
-// 2024400273
 public class Pinky extends Enemy {
 
     public Pinky(Position pos) {
