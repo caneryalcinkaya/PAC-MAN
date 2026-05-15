@@ -1,5 +1,3 @@
-// Caner Yalcinkaya
-// 2024400273
 import java.util.ArrayList;
 import java.util.Random;
 
