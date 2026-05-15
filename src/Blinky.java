@@ -1,5 +1,3 @@
-// Caner Yalcinkaya
-// 2024400273
 public class Blinky extends Enemy {
 
     public Blinky(Position pos) {
